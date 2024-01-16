@@ -1,0 +1,13 @@
+{
+"companyName": "TVTN",
+"productName": "Yodha Ram",
+"dataUrl": "YodhaRam_ITG.data.unityweb",
+"wasmCodeUrl": "YodhaRam_ITG.wasm.code.unityweb",
+"wasmFrameworkUrl": "YodhaRam_ITG.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "YodhaRam_ITG.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
